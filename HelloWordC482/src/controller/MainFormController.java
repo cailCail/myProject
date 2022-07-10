@@ -24,8 +24,7 @@ import java.util.ResourceBundle;
 /**
  * @ author
  * Sonya Cail
- * scail1@mywgu.edu
- * student ID: 002883381
+ *
  *
  */
 
